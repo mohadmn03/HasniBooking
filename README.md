@@ -11,6 +11,6 @@ Backend: Node.JS (soon)
 ################
 
 LIVE LINK:
-<a href="https://hasnibooking.netlify.app/">click to preview</a>
+# #<a href="https://hasnibooking.netlify.app/">click to preview</a>
 
 ################
